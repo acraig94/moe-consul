@@ -1,1 +1,3 @@
 # moe-consul
+
+service reg
